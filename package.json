@@ -1,0 +1,17 @@
+{
+    "name": "my-portfolio",
+    "version": "1.0.0",
+    "description": "My personal portfolio website",
+    "main": "index.js",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "serve": "vite preview"
+    },
+    "author": "Abi Ayshwariya S",
+    "license": "MIT",
+    "dependencies": {
+      "vite": "^5.4.1"
+    }
+  }
+  
